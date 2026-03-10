@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TWItDk9feM+QhTbzhmDLDPJ4H6qrt90uljpggWQrIt0=",
+  "Source": "CpfValidationApi",
+  "BasePath": "_content/CpfValidationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
