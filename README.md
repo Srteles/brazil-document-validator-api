@@ -58,6 +58,22 @@ BrazilDocumentValidator
 
 ---
 
+## 🔎 Exemplo de uso
+
+### Validação de CPF
+
+**Request**
+```json
+{
+  "cpf": "12345678909"
+}
+
+Response
+
+{
+  "isValid": true
+}
+
 ## ⚙️ Como executar o projeto
 
 ```bash
