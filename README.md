@@ -61,7 +61,7 @@ BrazilDocumentValidator
 ## ⚙️ Como executar o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/brazil-document-validator-api.git
+git clone https://github.com/Srteles/brazil-document-validator-api.git
 cd brazil-document-validator-api
 dotnet restore
 dotnet run
