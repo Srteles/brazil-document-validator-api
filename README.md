@@ -83,7 +83,6 @@ git clone https://github.com/Srteles/brazil-document-validator-api.git
 cd brazil-document-validator-api
 dotnet restore
 dotnet run
-Documentação da API
 
 Após iniciar o projeto, a documentação interativa estará disponível em:
 
