@@ -76,6 +76,8 @@ Response
   "isValid": true
 }
 
+```
+
 ## ⚙️ Como executar o projeto
 
 ```bash
@@ -83,6 +85,8 @@ git clone https://github.com/Srteles/brazil-document-validator-api.git
 cd brazil-document-validator-api
 dotnet restore
 dotnet run
+
+```
 
 Após iniciar o projeto, a documentação interativa estará disponível em:
 
@@ -94,9 +98,11 @@ Executar testes
 
 Para rodar os testes automatizados:
 
+```
+
 dotnet test
 
-
+```
 Autor
 
 Lucas Silva Teles
