@@ -18,16 +18,16 @@ O projeto tem como foco o desenvolvimento back-end, aplicando boas práticas de 
 
 ## 🧱 Estrutura do projeto
 
-Arquitetura em camadas (Controllers, Services, DTOs)
-
+```text
 BrazilDocumentValidator
 ├── CpfValidationApi
-│ ├── Controllers
-│ ├── Services
-│ ├── DTOs
-│ └── Program.cs
+│   ├── Controllers
+│   ├── Services
+│   ├── DTOs
+│   └── Program.cs
 ├── CpfValidationApi.Tests
 └── README.md
+```
 
 ---
 
