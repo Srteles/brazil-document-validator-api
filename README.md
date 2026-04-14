@@ -31,13 +31,15 @@ BrazilDocumentValidator
 
 ---
 
+
+---
+
 ## 📡 Endpoints disponíveis
 
 ### CPF
 - `POST /api/Cpf/validate`
 - `POST /api/Cpf/format`
 - `GET /api/Cpf/generate`
-
 
 ### CNPJ
 - `POST /api/Cnpj/validate`
