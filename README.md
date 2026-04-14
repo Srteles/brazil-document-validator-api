@@ -94,10 +94,9 @@ http://localhost:5011/swagger
 
 O Swagger permite testar todos os endpoints diretamente pelo navegador.
 
-Executar testes
+## 🧪 Executar testes
 
 Para rodar os testes automatizados:
-
 ```
 
 dotnet test
